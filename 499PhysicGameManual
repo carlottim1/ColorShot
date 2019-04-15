@@ -1,0 +1,19 @@
+													Color Shot
+Welcome to the game of color shot, the game is simple just match colors. So get ready, take aim, and color. 
+
+How to Play: The game loads onto the main menu where all you have to do is hit play to get the game going. In the game of Color Shot the
+objective is simple, move the balls at the corresponding squares, however be sure not to clash color or else you'll lose points towards
+your score. You have 60s seconds to shot as many colors as you can at the right square. Each color that you match earns you 50 points, 
+each color that you mix loses you 15 points. The balls stick once they hit the right color so make sure your careful with your placement
+or else there won't much room to hit the smae square. After the 60 seconds expires you will see your final score and taken to the credit screen. 
+If you are done playing hit the quit button to close out the game.
+
+Controls: 
+Move Fowards is W
+Move Backwards is S
+Move Right is D
+Move Left is A
+Move Up is the space bar 
+Move Down is z
+
+You can move multiple directions at the same time unless the directions are in opposite directions. 
